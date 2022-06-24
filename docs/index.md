@@ -15,14 +15,18 @@ $$
 
 <details><summary></summary>
 
+
 | 1 | 2 | 3 |
 |:-:|:-:|:-:|
 |$x$|$y$|$z$|
+
 </details>
 
 <details><summary></summary><div>
 
+
 | 1 | 2 | 3 |
 |:-:|:-:|:-:|
 |$x$|$y$|$z$|
+
 </div></details>
