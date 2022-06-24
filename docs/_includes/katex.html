@@ -9,7 +9,7 @@
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-        $("script[type='math/tex']").replaceWith(function () {
+        $("script[type^='math/tex']").replaceWith(function () {
             var tex = $(this).text();
             return "<span class=\"kdmath\">$" + tex + "$</span>";
         });
