@@ -24,6 +24,18 @@ $$
 
 <details><summary></summary><div>
 
+<table>
+    <tr align="center">
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+    </tr>
+    <tr align="center">
+        <td> $x$ </td>
+        <td> $y$ </td>
+        <td> $z$ </td>
+    </tr>
+</table>
 
 | 1 | 2 | 3 |
 |:-:|:-:|:-:|
