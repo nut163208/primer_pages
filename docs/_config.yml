@@ -1,1 +1,3 @@
 remote_theme: jekyll-theme-primer
+kramdown:
+  math_engine: mathjax
