@@ -1,5 +1,3 @@
-{::options parse_block_html="true" /}
-
 # test page
 
 $x + y$
@@ -14,6 +12,8 @@ $$
 | 1 | 2 | 3 |
 |:-:|:-:|:-:|
 |$x$|$y$|$z$|
+
+{::options parse_block_html="true" /}
 
 <details><summary></summary>
 
@@ -56,6 +56,8 @@ np.random.randn()
 
 </div></details>
 
+{::options parse_block_html="false" /} 
+
 <details><summary>details3</summary><div>
 
 コード*ブロッ*ク**の**テスト
@@ -72,5 +74,3 @@ np.random.randn()
 ```
 
 </div></details>
-
-{::options parse_block_html="false" /} 
