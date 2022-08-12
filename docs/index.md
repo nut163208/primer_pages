@@ -15,7 +15,7 @@ $$
 
 {::options parse_block_html="true" /}
 
-<details><summary></summary>
+<details><summary>details1</summary>
 
 
 | 1 | 2 | 3 |
@@ -35,7 +35,7 @@ np.random.randn() * np.pi * 1
 
 </details>
 
-<details><summary></summary><div>
+<details><summary>details2</summary><div>
 
 <table>
     <tr align="center">
