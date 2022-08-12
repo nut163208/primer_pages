@@ -20,6 +20,17 @@ $$
 |:-:|:-:|:-:|
 |$x$|$y$|$z$|
 
+```
+code
+example
+```
+
+```python
+import numpy as np
+
+np.random.randn()
+```
+
 </details>
 
 <details><summary></summary><div>
