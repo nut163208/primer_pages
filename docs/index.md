@@ -67,8 +67,6 @@ np.random.randn() * np.pi * 1
 
 </div></details>
 
-{::options parse_block_html="false" /} 
-
 <details><summary markdown="span">details3</summary><div>
 
 コード*ブロッ*ク**の**テスト
@@ -85,3 +83,5 @@ np.random.randn()
 ```
 
 </div></details>
+
+{::options parse_block_html="false" /} 
