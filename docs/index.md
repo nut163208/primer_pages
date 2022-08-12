@@ -30,7 +30,7 @@ example
 ```python
 import numpy as np
 
-np.random.randn()
+np.random.randn() * np.pi
 ```
 
 </details>
