@@ -13,8 +13,6 @@ $$
 |:-:|:-:|:-:|
 |$x$|$y$|$z$|
 
-{::options parse_block_html="true" /}
-
 <details><summary markdown="span">details1</summary>
 
 
@@ -83,5 +81,3 @@ np.random.randn()
 ```
 
 </div></details>
-
-{::options parse_block_html="false" /} 
