@@ -54,6 +54,17 @@ np.random.randn() * np.pi
 |:-:|:-:|:-:|
 |$x$|$y$|$z$|
 
+```
+code
+example
+```
+
+```python
+import numpy as np
+
+np.random.randn() * np.pi
+```
+
 </div></details>
 
 {::options parse_block_html="false" /} 
