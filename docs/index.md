@@ -13,7 +13,7 @@ $$
 |:-:|:-:|:-:|
 |$x$|$y$|$z$|
 
-<details><summary>　</summary>
+<details><summary></summary>
 
 
 | 1 | 2 | 3 |
@@ -33,7 +33,7 @@ np.random.randn()
 
 </details>
 
-<details><summary>　</summary><div>
+<details><summary></summary><div>
 
 <table>
     <tr align="center">
@@ -54,7 +54,7 @@ np.random.randn()
 
 </div></details>
 
-<details><summary> details3 </summary><div>
+<details><summary>details3</summary><div>
 
 コード*ブロッ*ク**の**テスト
 
