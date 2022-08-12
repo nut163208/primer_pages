@@ -15,7 +15,7 @@ $$
 
 {::options parse_block_html="true" /}
 
-<details><summary>details1</summary>
+<details><summary markdown="span">details1</summary>
 
 
 | 1 | 2 | 3 |
@@ -35,7 +35,7 @@ np.random.randn() * np.pi * 1
 
 </details>
 
-<details><summary>details2</summary><div>
+<details><summary markdown="span">details2</summary><div>
 
 <table>
     <tr align="center">
@@ -69,7 +69,7 @@ np.random.randn() * np.pi * 1
 
 {::options parse_block_html="false" /} 
 
-<details><summary>details3</summary><div>
+<details><summary markdown="span">details3</summary><div>
 
 コード*ブロッ*ク**の**テスト
 
