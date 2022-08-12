@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 # test page
 
 $x + y$
@@ -70,3 +72,5 @@ np.random.randn()
 ```
 
 </div></details>
+
+{::options parse_block_html="false" /} 
