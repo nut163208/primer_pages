@@ -30,7 +30,7 @@ example
 ```python
 import numpy as np
 
-np.random.randn() * np.pi
+np.random.randn() * np.pi * 1
 ```
 
 </details>
@@ -62,7 +62,7 @@ example
 ```python
 import numpy as np
 
-np.random.randn() * np.pi
+np.random.randn() * np.pi * 1
 ```
 
 </div></details>
