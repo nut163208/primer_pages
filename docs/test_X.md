@@ -1,5 +1,5 @@
 ---
-layout: test_X
+layout: test_x
 ---
 
 テスペ

@@ -1,6 +1,6 @@
 theme: jekyll-theme-primer
 title: primer test pages
-title_X: test_X page
+title_x: test_X page
 
 kramdown:
   parse_block_html: true
