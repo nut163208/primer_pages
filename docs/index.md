@@ -8,19 +8,15 @@ $$
 f(x) = \sum_{i}^N x_i
 $$
 
-<div align="center">
 | 1 | 2 | 3 |
 |:-:|:-:|:-:|
 |$x$|$y$|$z$|
-</div>
 
 <details><summary markdown="span">details1</summary>
 
-<div align="center">
 | 1 | 2 | 3 |
 |:-:|:-:|:-:|
 |$x$|$y$|$z$|
-</div>
     
 ```
 code
